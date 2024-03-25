@@ -1,0 +1,41 @@
+{
+    "companyName": "I-Scream Company Inc.",
+    "headOffice": "North Pole",
+    "established": 2024,
+    "active": true,
+    "topFlavors": [{
+            "name": "Chocolate Mint",
+            "calories": 200,
+            "type": "ice-cream",
+            "ingredients": ["Chocolate Syrup", "Peppermint Sprinkles", "Vanilla Base"],
+            "image": "https://rushikeshveda.github.io/Javascript_assignment3/images/chocolate-mint.svg"
+        }, {
+            "name": "Peach Mango",
+            "calories": 250,
+            "type": "milkshake-type ice-cream",
+            "ingredients": ["Peach Syrup", "Mango Chunks", "Vanilla Base"],
+            "image": "https://rushikeshveda.github.io/Javascript_assignment3/images/peach-mango.svg"
+        },
+        {
+            "name": "Strawberry Sprinkle",
+            "calories": 300,
+            "type": "milkshake",
+            "ingredients": ["Strawberry Syrup", "Sprinkles", "Vanilla Base"],
+            "image": "https://rushikeshveda.github.io/Javascript_assignment3/images/strawberry-sprinkle.svg"
+        },
+        {
+            "name": "Fruit Punch",
+            "calories": 290,
+            "type": "milkshake",
+            "ingredients": ["Maple Syrup", "Sprinkles", "Vanilla Base", "Fruits of your choice"],
+            "image": "https://rushikeshveda.github.io/Javascript_assignment3/images/strawberry-sprinkle.svg"
+        },
+        {
+            "name": "French Vanilla",
+            "calories": 500,
+            "type": "milkshake-type ice-cream",
+            "ingredients": ["vanilla Syrup", "Sprinkles", "Vanilla Base","vanilla ice-cream"],
+            "image": "https://rushikeshveda.github.io/Javascript_assignment3/images/strawberry-sprinkle.svg"
+        }
+    ]
+}
