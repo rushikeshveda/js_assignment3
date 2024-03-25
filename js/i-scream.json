@@ -28,14 +28,14 @@
             "calories": 290,
             "type": "milkshake",
             "ingredients": ["Maple Syrup", "Sprinkles", "Vanilla Base", "Fruits of your choice"],
-            "image": "https://rushikeshveda.github.io/Javascript_assignment3/images/strawberry-sprinkle.svg"
+            "image": "https://rushikeshveda.github.io/Javascript_assignment3/images/ice-cream-xtra1.svg"
         },
         {
             "name": "French Vanilla",
             "calories": 500,
             "type": "milkshake-type ice-cream",
             "ingredients": ["vanilla Syrup", "Sprinkles", "Vanilla Base","vanilla ice-cream"],
-            "image": "https://rushikeshveda.github.io/Javascript_assignment3/images/strawberry-sprinkle.svg"
+            "image": "https://rushikeshveda.github.io/Javascript_assignment3/images/ice-cream-xtra2.svg"
         }
     ]
 }
